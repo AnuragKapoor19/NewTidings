@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NewTidings/static/css/main.fb0b1b9a.css",
-    "main.js": "/NewTidings/static/js/main.f1d998be.js",
+    "main.js": "/NewTidings/static/js/main.20e23f5d.js",
     "static/js/453.b2157c12.chunk.js": "/NewTidings/static/js/453.b2157c12.chunk.js",
     "index.html": "/NewTidings/index.html",
     "main.fb0b1b9a.css.map": "/NewTidings/static/css/main.fb0b1b9a.css.map",
-    "main.f1d998be.js.map": "/NewTidings/static/js/main.f1d998be.js.map",
+    "main.20e23f5d.js.map": "/NewTidings/static/js/main.20e23f5d.js.map",
     "453.b2157c12.chunk.js.map": "/NewTidings/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0b1b9a.css",
-    "static/js/main.f1d998be.js"
+    "static/js/main.20e23f5d.js"
   ]
 }
