@@ -26,7 +26,7 @@ export default function Navbar() {
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav">
                             <li className="nav-item fs-5 fw-bolder">
-                                <Link className="nav-link active" aria-current="page" to="/" onClick={() => setcategory('top')}>Home</Link>
+                                <Link className="nav-link active" aria-current="page" to="/NewTidings" onClick={() => setcategory('top')}>Home</Link>
                             </li>
 
                             <li className="nav-item fs-5 fw-bolder">

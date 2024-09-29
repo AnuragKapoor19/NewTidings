@@ -64,7 +64,7 @@ export default function News() {
         getdata()
         window.scrollTo(0, 0)
         if(category === 'top'){
-            navigate('/')
+            navigate('/NewTidings')
         }
         // eslint-disable-next-line
     }, [category])
